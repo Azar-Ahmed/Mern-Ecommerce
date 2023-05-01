@@ -5,9 +5,9 @@ Server
     DATABASE='mongo_url'
     PORT=8000
 
-    CLOUDINARY_CLOUD_NAME=
-    CLOUDINARY_API_KEY=
-    CLOUDINARY_API_SECRET=
+    cloudinary cloud name 
+                api key
+                api secret
 
 
 Client 
